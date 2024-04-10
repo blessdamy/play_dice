@@ -1,7 +1,8 @@
-
+#play_dice
+---
 ![play_dice](https://github.com/blessdamy/play_dice/assets/111387281/ca57c55c-d40b-4cef-b269-72fdd4ff8df5)
 
-#play_dice
+
 play_dice is a game that involves two players; player 1 and player 2.   
 The goal of the game is to make the player who gets to a score of '100' first the winner.   
 There are three major button functionalities, the 'Roll Dice', 'Hold' and 'New Game'.   
